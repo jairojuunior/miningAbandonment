@@ -1,0 +1,757 @@
+CODIGO|NOME_DISCIPLINA|TEORIA|PRATICA|INDIVIDUAL
+BC0001|Base Experimental das Ciências Naturais|0|3|2
+BC0002|Projeto Dirigido|0|2|10
+BC0003|Bases Matemáticas|4|0|5
+BC0004|Bases Epistemológicas da Ciência Moderna|3|0|4
+BC0005|Bases Computacionais da Ciência|0|2|2
+BC0102|Estrutura da Matéria|3|0|4
+BC0103|Física Quântica|3|0|4
+BC0104|Interações Atômicas e Moleculares|3|0|4
+BC0205|Fenômenos Térmicos|3|1|4
+BC0207|Energia: Origens, Conversão e Uso|2|0|4
+BC0208|Fenômenos Mecânicos|3|2|6
+BC0209|Fenômenos Eletromagnéticos|3|2|6
+BC0304|Origem da Vida e Diversidade dos Seres Vivos|3|0|4
+BC0306|Transformações nos Seres Vivos e Ambiente|3|0|4
+BC0307|Transformações Químicas|3|2|6
+BC0308|Transformações Bioquímicas|3|2|6
+BC0402|Funções de Uma Variável|4|0|6
+BC0404|Geometria Analítica|3|0|6
+BC0405|Introdução às Equações Diferenciais Ordinárias|4|0|4
+BC0406|Introdução à Probabilidade e à Estatística|3|0|4
+BC0407|Funções de Várias Variáveis|4|0|4
+BC0504|Natureza da Informação|3|0|4
+BC0505|Processamento da Informação|3|2|5
+BC0506|Comunicação e Redes|3|0|4
+BC0602|Estrutura e Dinâmica Social|3|0|4
+BC0603|Ciência, Tecnologia e Sociedade|3|0|4
+BC1004|Introdução à Neurociência Computacional|4|0|4
+BC1005|Recursos Hídricos|3|0|4
+BC1006|Psicologia Cognitiva|4|0|4
+BC1008|Introdução à Neurociência|4|0|5
+BC1010|Teoria da Evolução, Jogos Evolucionários e Dinâmica Populacional|3|1|5
+BC1013|Teoria do Conhecimento Científico|4|0|4
+BC1103|Mecânica dos Fluidos I|3|1|5
+BC1104|Mecânica dos Sólidos|3|1|5
+BC1105|Materiais e Suas Propriedades|3|1|5
+BC1106|Ciências Atmosféricas|4|0|4
+BC1107|Espectroscopia|4|2|6
+BC1202|Energia e Meio Ambiente|2|1|3
+BC1203|Introdução à Física Nuclear|4|0|4
+BC1205|Reações Nucleares|3|0|5
+BC1219|Óptica|3|1|4
+BC1220|Teoria da Relatividade|4|0|4
+BC1302|Química dos Elementos|4|2|6
+BC1304|Princípios de Análise Química|4|2|6
+BC1305|Práticas de Ecologia|0|4|4
+BC1306|Noções de Astronomia e Cosmologia|4|0|4
+BC1307|Biologia Celular|3|2|4
+BC1308|Biofísica|4|0|4
+BC1309|Termodinâmica Aplicada|3|1|5
+BC1310|Ligações Químicas|4|0|6
+BC1311|Laboratório de Física Médica|0|3|2
+BC1312|Laboratório de Física Básica I|0|3|5
+BC1313|Introdução à Física Médica|3|0|5
+BC1314|Laboratório de Física Básica II|0|3|5
+BC1315|Genética Geral|3|2|5
+BC1316|Fundamentos de Geologia|4|0|2
+BC1317|Fenômenos Ondulatórios|3|1|4
+BC1319|Física do Contínuo|3|1|4
+BC1320|Biologia Molecular e Biotecnologia|3|0|3
+BC1321|Sistemas Biológicos I|4|2|4
+BC1322|Sistemas Biológicos II|4|2|4
+BC1323|Genética Molecular|2|2|2
+BC1324|Sistemas Biológicos III|4|2|4
+BC1325|Sistemas Biológicos IV|4|2|4
+BC1326|Bioquímica Funcional|4|2|4
+BC1327|Conservação da Biodiversidade|4|0|4
+BC1328|Bioquímica Experimental|2|4|6
+BC1329|Evolução|3|2|3
+BC1330|Princípios de Termodinâmica|4|0|6
+BC1402|Teoria Axiomática dos Conjuntos|4|0|4
+BC1403|Teoria de Conjuntos Básica|4|0|4
+BC1405|Teoria Aritmética dos Números|4|0|4
+BC1407|Seqüências e Séries|4|0|4
+BC1408|Otimização|3|2|4
+BC1409|Modelagem de Sistemas Biológicos|3|1|4
+BC1412|Métodos Numéricos em EDO's|2|2|4
+BC1413|Introdução à Teoria dos Jogos|3|0|3
+BC1414|Introdução à Modelagem e Processos Estocásticos|3|1|4
+BC1415|Introdução à Inferência Estatística|3|1|4
+BC1416|Fundamentos de Desenho e Projeto|1|3|4
+BC1417|Funções Complexas e Transformadas Integrais|4|0|4
+BC1418|Cálculo Vetorial e Tensorial|4|0|4
+BC1419|Cálculo Numérico|3|1|4
+BC1420|Funções Especiais|4|0|4
+BC1421|Análise Real I|4|0|4
+BC1424|Algoritmos e Estruturas de Dados I|2|2|4
+BC1425|Álgebra Linear|6|0|5
+BC1426|Lógica Básica|4|0|4
+BC1427|Equações Diferenciais Ordinárias|4|0|4
+BC1429|Teoria dos Grafos|3|1|4
+BC1430|Estrutura de Dados I|2|2|4
+BC1432|Programação Matemática|3|1|4
+BC1433|Cálculo Avançado|4|0|4
+BC1435|Análise de Algoritmos|4|0|4
+BC1436|Princípios de Simulação Matemática|2|2|4
+BC1437|Matemática Discreta|4|0|4
+BC1438|Evolução dos Conceitos Matemáticos|4|0|4
+BC1439|Introdução à Bioinformática|3|1|4
+BC1440|Processos Industriais Orgânicos e Inorgânicos|4|0|4
+BC1501|Programação Orientada a Objetos|2|2|4
+BC1503|Arquitetura de Computadores|4|0|4
+BC1505|Processamento Digital de Imagens|3|1|4
+BC1506|Computação Evolutiva e Conexionista|4|0|4
+BC1507|Instrumentação e Controle|3|1|5
+BC1508|Engenharia de Software|4|2|4
+BC1510|Sistemas de Informação|4|0|4
+BC1511|Vida Artificial na Computação|2|0|4
+BC1513|Redes de Computadores|3|1|4
+BC1514|Introdução à Criptografia|3|1|4
+BC1515|Computação Gráfica|3|1|4
+BC1517|Circuitos Digitais|3|1|4
+BC1518|Sistemas Operacionais|3|1|4
+BC1519|Circuitos Elétricos e Fotônica|3|1|5
+BC1523|Segurança de Dados|3|1|4
+BC1602|Educação Científica, Sociedade e Cultura|4|0|4
+BC1604|Bioética|2|0|2
+BC1606|Microbiologia I|4|2|5
+BC1607|LIBRAS|2|0|2
+BC1608|História do Pensamento Ocidental|3|0|3
+BC1611|Teoria da Ciência|4|0|4
+BC1612|Políticas Públicas em Ciência e Tecnologia|3|0|3
+BC1613|Nascimento e Desenvolvimento da Ciência Moderna|4|0|4
+BC1614|Introdução à Filosofia da Ciência|4|0|4
+BC1615|Globalização e Sistemas Internacionais|3|0|3
+BC1616|Fundamentos da Economia|4|0|3
+BC1620|Comunicação, Ciência e Tecnologia|3|0|3
+BC1621|Ciência na Antiguidade e Período Medieval|4|0|4
+BC1622|Teoria da Recursão e Computabilidade|4|0|4
+BC1623|Metateoremas da Lógica Clássica|4|0|4
+BC1624|Políticas Educacionais|3|0|3
+BC1625|Práticas de Ensino de Ciências e Matemática no Ensino Fundamental|4|0|4
+BC1626|Desenvolvimento e Aprendizagem|4|0|4
+BC1627|Didática|4|0|4
+BC1628|Estágio Supervisionado I (Nível Fundamental)|||
+BC1629|Estágio Supervisionado II (Nível Fundamental)|||
+BC1707|Métodos Experimentais em Engenharia|0|3|2
+BC1708|Introdução à Bioengenharia|2|0|4
+BC1710|Introdução às Engenharias|2|0|4
+BC1711|Engenharia Econômica|2|1|3
+BC2001|Iniciação à Pesquisa Científica I|2|0|3
+BC2002|Iniciação à Pesquisa Científica II|2|0|3
+BC2003|Iniciação à Pesquisa Científica III|2|0|3
+EN0001|Economia Brasileira|3|0|3
+EN1002|Engenharia Unificada I|0|3|5
+EN1004|Engenharia Unificada II|0|3|5
+EN1007|Trabalho de Graduação I|0|2|4
+EN1008|Trabalho de Graduação II|0|2|4
+EN1009|Trabalho de Graduação III|0|2|4
+EN1101|Estágio Curricular I em Engenharia Ambiental e Urbana|0|7|0
+EN1102|Estágio Curricular II em Engenharia Ambiental e Urbana|0|7|0
+EN1201|Estágio Curricular I em Engenharia Aeroespacial|0|7|0
+EN1202|Estágio Curricular II em Engenharia Aeroespacial|0|7|0
+EN1301|Estágio Curricular I em Engenharia Biomédica|0|7|0
+EN1302|Estágio Curricular II em Engenharia Biomédica|0|7|0
+EN1401|Estágio Curricular I em Engenharia de Energia|0|7|0
+EN1402|Estágio Curricular II em Engenharia de Energia|0|7|0
+EN1501|Estágio Curricular I em Engenharia de Gestão|0|7|0
+EN1502|Estágio Curricular II em Engenharia de Gestão|0|7|0
+EN1601|Estágio Curricular I em Engenharia de Informação|0|7|0
+EN1602|Estágio Curricular II em Engenharia de Informação|0|7|0
+EN1701|Estágio Curricular I em Engenharia de Instrumentação, Automação e Robótica|0|7|0
+EN1702|Estágio Curricular II em Engenharia de Instrumentação, Automação e Robótica|0|7|0
+EN1801|Estágio Curricular I em Engenharia de Materiais|0|7|0
+EN1802|Estágio Curricular II em Engenharia de Materiais|0|7|0
+EN2102|Teoria do Planejamento Urbano e Ambiental|3|0|4
+EN2103|Transferência de Massa|3|1|5
+EN2105|Microbiologia Ambiental|3|1|4
+EN2108|Hidráulica|3|1|4
+EN2109|Hidrologia|3|1|3
+EN2112|Direito Ambiental e Urbanístico|3|0|4
+EN2113|Cartografia e Geoprocessamento|1|3|3
+EN2114|Geotecnia|2|2|4
+EN2115|Poluição Atmosférica|3|0|4
+EN2116|Habitação e Assentamentos Humanos|3|1|5
+EN2117|Sistemas de Abastecimento de Águas|3|1|5
+EN2118|Sistemas de Esgotos e Drenagem Urbana|3|1|5
+EN2120|Sistemas de Tratamento de Águas e Efluentes|3|1|4
+EN2121|Resíduos Sólidos|3|0|3
+EN2122|Introdução à Geologia de Engenharia|3|1|3
+EN2123|Transportes e Mobilidade Urbana|3|0|4
+EN2124|Planejamento Urbano e Metropolitano|3|1|4
+EN2125|Avaliação de Impactos Ambientais|3|0|3
+EN2126|Saúde Ambiental|2|0|3
+EN2127|Climatologia|3|0|4
+EN2128|Ecologia do Ambiente Antropizado|2|0|4
+EN2204|Dinâmica I|3|0|5
+EN2205|Dinâmica II|4|0|4
+EN2207|Laboratório de Guiagem, Navegação e Controle|2|2|4
+EN2208|Aeronáutica I-A|3|1|3
+EN2209|Técnicas de Análise Estrutural e Projeto|3|0|4
+EN2210|Aeroelasticidade|4|0|5
+EN2212|Vibrações Lineares|4|0|4
+EN2213|Aerodinâmica I|4|0|5
+EN2214|Combustão I|3|1|4
+EN2215|Introdução aos Sistemas de Propulsão|3|1|4
+EN2216|Máquinas de Fluxo|3|1|4
+EN2217|Mecânica dos Fluidos Viscosos|3|1|4
+EN2218|Escoamento Compressível|3|1|4
+EN2219|Dinâmica e Controle de Veículos Espaciais|4|0|4
+EN2302|Instrumentação Biomédica|3|2|5
+EN2303|Efeitos Biológicos das Radiações Não Ionizantes|2|2|4
+EN2304|Engenharia Aplicada a Sistemas Biológicos II|3|2|5
+EN2305|Introdução a Materiais Biocompatíveis|2|0|5
+EN2306|Engenharia Aplicada a Sistemas Biológicos I|3|2|5
+EN2307|Instrumentação Biomédica Avançada|3|2|4
+EN2308|Princípios e Aplicações de Biomecânica|2|2|4
+EN2309|Processamento e Análise de Sinais Biomédicos|2|2|4
+EN2310|Modelagem, Simulação e Controle Aplicados a Sistemas Biológicos|4|0|4
+EN2311|Princípios de Imagens Médicas|2|2|4
+EN2312|Legislação Relacionada à Saúde|3|0|5
+EN2313|Engenharia de Reabilitação e Biofeedback|3|1|4
+EN2314|Equipamentos Médico-Hospitalares|3|2|4
+EN2315|Biossegurança|3|0|3
+EN2316|Instalações Hospitalares|2|2|4
+EN2317|Caracterização de Biomateriais|3|2|4
+EN2403|Instalações Elétricas I|2|2|4
+EN2404|Sistemas Térmicos|3|2|4
+EN2405|Fundamentos de Máquinas Elétricas|2|2|5
+EN2406|Introdução aos Sistemas Elétricos de Potência|3|1|5
+EN2407|Subestação e Equipamentos|2|0|4
+EN2409|Operação de Sistemas Elétricos de Potência|3|1|4
+EN2410|Transferência de Calor I|3|1|4
+EN2411|Transferência de Calor II|3|1|4
+EN2412|Mecânica dos Fluidos II|3|1|5
+EN2413|Termodinâmica Aplicada II|3|1|5
+EN2416|Energia, Meio Ambiente e Sociedade|4|0|5
+EN2417|Uso Final de Energia e Eficiência Energética|3|1|5
+EN2418|Economia da Energia|2|0|4
+EN2419|Fontes Renováveis de Energia|4|0|4
+EN2420|Fontes Não-Renováveis de Energia|4|0|4
+EN2421|Análise Econômica de Projetos Energéticos|4|0|5
+EN2506|Engenharia de Gestão|Visão Geral|2|0|2
+EN2507|Introdução à Administração|2|0|2
+EN2508|Tempos, Métodos e Arranjos Físicos|2|2|5
+EN2509|Planejamento e Controle de Produção|4|0|5
+EN2510|Engenharia Logística|2|2|4
+EN2511|Gestão de Operações|4|0|5
+EN2512|Sistemas de Fabricação|2|2|5
+EN2513|Propriedade Intelectual|2|2|4
+EN2514|Inovação Tecnológica|2|2|2
+EN2515|Tecnologia da Informação|2|0|3
+EN2516|Qualidade em Sistemas|4|0|5
+EN2517|Gerência de Ativos Tangíveis e Intangíveis|2|0|3
+EN2518|Organização do Trabalho|3|1|5
+EN2519|Sistemas Integrados de Gestão da Qualidade Ambiental, Segurança e Saúde|2|0|3
+EN2520|Desenvolvimento Integrado do Produto|2|2|5
+EN2521|Elaboração, Análise e Avaliação de Projetos|3|1|5
+EN2522|Engenharia Laboral|4|0|4
+EN2523|Pesquisa Operacional|4|0|5
+EN2524|Gestão de Recursos Energéticos e Ambientais|2|0|5
+EN2525|Custos|3|1|5
+EN2526|Economia de Empresas|2|0|3
+EN2527|Engenharia Econômica Aplicada à Engenharia de Gestão|4|0|5
+EN2605|Eletrônica Digital|4|2|4
+EN2607|Transformadas em Sinais e Sistemas Lineares|4|0|4
+EN2608|Princípios de Comunicação|3|1|4
+EN2609|Sinais Aleatórios|4|0|4
+EN2610|Processamento Digital de Sinais|4|0|4
+EN2611|Comunicação Digital|3|1|4
+EN2612|Teoria da Informação e Códigos|4|0|4
+EN2613|Ondas Eletromagnéticas Aplicadas|3|1|4
+EN2614|Comunicações Ópticas|3|1|4
+EN2615|Propagação e Antenas|3|1|4
+EN2616|Comunicações Multimídia|2|1|4
+EN2617|Sistemas Microprocessados|2|2|4
+EN2618|Projeto de Filtros Digitais|2|2|4
+EN2619|Telefonia Fixa Moderna|3|1|4
+EN2620|Comunicações Móveis|3|1|4
+EN2701|Fundamentos de Eletrônica|3|2|4
+EN2703|Circuitos Elétricos I|3|2|4
+EN2704|Sistemas de Controle I|3|2|4
+EN2705|Circuitos Elétricos II|3|2|4
+EN2706|Análise de Sistemas Dinâmicos Lineares|3|0|4
+EN2708|Fotônica|3|1|4
+EN2709|Eletrônica Aplicada|3|2|4
+EN2710|Sistemas de Controle II|3|2|4
+EN2711|Máquinas Elétricas|3|2|4
+EN2712|Sensores e Transdutores|3|1|4
+EN2713|Automação de Sistemas Industriais|3|1|4
+EN2714|Acionamentos Elétricos|3|2|4
+EN2715|Fundamentos de Robótica|3|1|4
+EN2716|Sistemas CAD/CAM|3|1|4
+EN2717|Introdução aos Processos de Fabricação|3|1|4
+EN2802|Estado Sólido|4|0|4
+EN2806|Tópicos Experimentais em Materiais|0|4|4
+EN2809|Tópicos Computacionais em Materiais|2|2|5
+EN2810|Ciência dos Materiais|4|0|4
+EN2811|Materiais Metálicos|3|1|4
+EN2812|Materiais Poliméricos|3|1|4
+EN2813|Materiais Cerâmicos|3|1|4
+EN2814|Materiais Compósitos|3|1|4
+EN2815|Termodinâmica Estatística de Materiais|4|0|4
+EN2816|Propriedades Mecânicas e Térmicas|3|1|4
+EN2817|Propriedades Elétricas, Magnéticas e Ópticas|3|1|4
+EN2818|Reologia|2|0|3
+EN2819|Seleção de Materiais|4|0|4
+EN2820|Caracterização de Materiais|2|2|4
+EN3201|Introdução às Vibrações Não Lineares|4|0|4
+EN3202|Dinâmica Orbital|3|0|4
+EN3203|Aeronáutica I-B|3|1|4
+EN3204|Aeronáutica II|3|1|4
+EN3205|Estabilidade e Controle de Aeronaves|4|0|4
+EN3206|Instrumentação e Sensores em Veículos Aeroespaciais|3|1|4
+EN3207|Simulação de Vôo e Ambientes Virtuais|3|0|4
+EN3208|Otimização em Projetos de Estruturas|3|0|4
+EN3209|Desempenho de Aeronaves|4|0|4
+EN3210|Navegação Inercial e GPS|3|1|4
+EN3211|Cinemática e Dinâmica de Mecanismos|3|0|4
+EN3212|Introdução à Astronáutica|2|0|3
+EN3213|Teoria da Elasticidade|4|0|5
+EN3214|Aplicações de Elementos Finitos para Engenharia|3|0|4
+EN3215|Placas e Cascas|3|0|4
+EN3216|Métodos Computacionais para Análise Estrutural|3|1|4
+EN3217|Interação Fluido-Estrutura|3|0|4
+EN3218|Aerodinâmica II|4|0|5
+EN3219|Aeroacústica|3|0|5
+EN3220|Técnicas Experimentais em Propulsão|3|2|6
+EN3221|Combustão II|2|1|4
+EN3222|Propulsão Aeroespacial Não-Convencional|3|0|4
+EN3224|Dinâmica de Fluidos Computacional|3|0|4
+EN3225|Propulsão Aeroespacial|3|1|4
+EN3226|Projeto Térmico de Veículos Espaciais|4|0|4
+EN3227|Transferência de Calor Aplicada a Sistemas Aeroespaciais|3|0|4
+EN3301|Bioestatística|3|0|4
+EN3303|Aspectos Humanísticos no Uso de Tecnologia na Saúde|2|0|4
+EN3304|Processamento e Análise de Falhas em Biomateriais|3|2|4
+EN3305|Introdução à Biotecnologia|4|0|4
+EN3307|Engenharia de Tecidos e Órgãos Artificiais|3|2|4
+EN3309|Espectroscopia Óptica em Sistemas Biológicos|3|1|4
+EN3310|Aplicações de Lasers em Ciências da Vida e Saúde Humana|3|2|4
+EN3311|Técnicas Nucleares Aplicadas às Ciências da Saúde|3|2|4
+EN3312|Processamento de Imagens Médicas|2|2|5
+EN3313|Técnicas de Imageamento e Metrologia Óptica no Macro e Microdiagnóstico de Sistemas Biológicos|2|2|4
+EN3314|Física do Corpo Humano|3|0|4
+EN3315|Neuromecânica do Movimento Humano|3|2|4
+EN3316|Análise e Controle de Sistemas Mecânicos|3|2|4
+EN3317|Técnicas de Análise Estrutural e Projeto de Sistemas Dinâmicos|3|2|4
+EN3318|Laboratório de Bioinformática|0|4|5
+EN3319|Informática Médica|2|2|5
+EN3320|Projeto e Desenvolvimento de Sistemas para Análise de Dados Médicos|3|2|4
+EN3321|Engenharia Clínica I|3|2|4
+EN3322|Engenharia Clínica II|3|2|4
+EN3323|Normas de Segurança e Desempenho Aplicadas a Equipamentos Médicos e Hospitalares|3|0|4
+EN3402|Qualidade da Energia Elétrica|3|2|4
+EN3403|Sistemas de Potência I|3|1|4
+EN3404|Sistemas de Potência II|3|1|4
+EN3405|Automação de Sistemas Elétricos de Potência|3|0|4
+EN3406|Instalações Elétricas II|2|2|4
+EN3407|Tecnologia da Combustão|1|2|4
+EN3408|Motores de Combustão Interna|2|1|4
+EN3409|Centrais Termoelétricas|2|0|4
+EN3410|Transferência de Calor Industrial|2|2|4
+EN3411|Geração e Distribuição de Vapor|2|1|4
+EN3412|Turbinas Térmicas de Potência|2|1|4
+EN3413|Cogeração|4|0|4
+EN3414|Integração e Otimização Energética de Processos|3|1|4
+EN3415|Ventilação Industrial e Ar Comprimido|2|0|4
+EN3416|Refrigeração e Condicionamento de Ar|3|1|4
+EN3417|Processos Termoquímicos de Conversão Energética|2|0|4
+EN3418|Biotecnologia: Produção de Combustíveis a Partir de Fontes Renováveis|2|0|4
+EN3419|Tecnologia de Produção de Etanol|4|0|4
+EN3420|Tecnologia de Produção de Biodiesel|4|0|4
+EN3421|Operações e Equipamentos Industriais I|3|1|4
+EN3422|Operações e Equipamentos Industriais II|3|1|4
+EN3425|Eletrificação Rural com Recursos Energéticos Renováveis|2|0|4
+EN3426|Engenharia de Sistemas Fotovoltaicos|2|2|4
+EN3427|Engenharia de Sistemas Eólicos|2|2|4
+EN3428|Células a Combustível|2|0|4
+EN3429|Aproveitamento Energético do Hidrogênio|3|0|3
+EN3430|Geração Distribuída|2|0|3
+EN3431|Energia de Sistemas Solares Térmicos|2|0|4
+EN3432|Introdução à Engenharia do Petróleo I|4|0|4
+EN3433|Introdução à Engenharia do Petróleo II|4|0|4
+EN3434|Tubulações Industriais|2|0|4
+EN3437|Laboratório de Instrumentação Nuclear e Radioproteção|2|2|6
+EN3438|Física de Reatores Nucleares I|3|0|5
+EN3439|Termo-Hidráulica de Reatores Nucleares I|4|0|6
+EN3440|Física de Reatores Nucleares II|3|0|5
+EN3441|Termo-Hidráulica de Reatores Nucleares II|3|0|5
+EN3442|Segurança de Instalações Nucleares|3|0|4
+EN3443|Resíduos Nucleares|3|0|3
+EN3444|Economia de Reatores Nucleares|3|0|3
+EN3445|Engenharia Unificada (Engenharia Nuclear)|1|2|5
+EN3446|Estrutura e Organização do Setor Energético|2|0|4
+EN3447|Tecnologias Emergentes de Conversão Energética|2|0|3
+EN3448|Acumuladores de Energia|2|0|5
+EN3449|Normas de Segurança para Sistemas Energéticos|2|0|4
+EN3450|Análise de Redes de Transporte e Distribuição de Energia|4|0|5
+EN3451|Supervisão e Confiabilidade de Sistemas Energéticos|3|1|4
+EN3501|Técnicas Avançadas de Gestão da Produção|4|0|5
+EN3502|Manufatura Integrada por Computador|0|4|6
+EN3508|Processos Discretos de Produção|2|2|6
+EN3509|Processos de Produção na Indústria da Construção Civil|2|2|6
+EN3510|Confiabilidade Industrial|2|2|4
+EN3511|Planejamento de Experimentos|2|2|2
+EN3512|Metrologia|2|2|4
+EN3513|Clima e Cultura Organizacional|2|0|3
+EN3514|Modelos de Comunicação nas Organizações|2|0|4
+EN3515|Sociologia das Organizações|2|0|3
+EN3516|Gestão de Pessoas|2|0|3
+EN3517|Ética e Responsabilidade Social|2|0|3
+EN3518|Direito Aplicado à Gestão (Empresarial)|4|0|5
+EN3519|Estratégias de Comunicação Organizacional|4|0|5
+EN3520|Planejamento e Controle de Projetos|2|2|4
+EN3521|Projetos Industriais|2|2|6
+EN3523|Riscos|2|2|2
+EN3524|Engenharia Humana|4|0|5
+EN3525|Simulação de Modelos de Gestão|2|2|4
+EN3526|Jogos de Empresas|2|2|4
+EN3527|Teoria das Decisões|2|0|3
+EN3529|Pesquisa Operacional Aplicada|4|0|5
+EN3530|Eficiência Energética|2|2|5
+EN3531|Macroeconomia|2|0|3
+EN3532|Microeconomia|2|0|3
+EN3533|Economia Internacional|2|0|3
+EN3534|Análise de Balanço|2|2|4
+EN3535|Empreendedorismo|2|2|2
+EN3536|Mineração de Dados Aplicada à Engenharia de Gestão|3|1|5
+EN3537|Processos Contínuos de Produção|2|2|6
+EN3601|Informação e Sociedade|2|0|3
+EN3602|Sistemas de Microondas|3|1|4
+EN3603|Projeto de Alta Freqüência|3|1|4
+EN3604|Filtragem Adaptativa|3|1|4
+EN3605|Processamento de Informação em Línguas Naturais|3|1|4
+EN3606|TV Digital|3|1|4
+EN3607|Tecnologia de Redes Ópticas|3|0|4
+EN3608|Redes de Alta Velocidade|3|1|4
+EN3609|Teoria de Filas e Análise de Desempenho|3|1|4
+EN3610|Gerenciamento e Interoperabilidade de Redes|3|1|4
+EN3611|Segurança de Redes|3|1|4
+EN3612|Processamento de Vídeo|3|1|4
+EN3614|Fundamentos de Computação Gráfica|3|1|4
+EN3615|Simulação de Sistemas de Comunicação|2|2|4
+EN3616|Programação de Dispositivos Móveis|0|2|4
+EN3617|Jogos Digitais: Aspectos Técnicos e Aplicações|2|2|4
+EN3618|Informática Industrial|0|4|4
+EN3619|Sistemas Inteligentes|3|1|4
+EN3702|Visão Computacional|3|1|4
+EN3704|Robôs Móveis Autônomos|3|1|4
+EN3705|Controle Avançado de Robôs|3|0|4
+EN3706|Servo-Sistema para Robôs e Acionamento para Sistemas Mecatrônicos|3|1|4
+EN3707|Circuitos Hidráulicos e Pneumáticos|3|1|4
+EN3708|Sistemas de Controle III|3|2|4
+EN3709|Controle Robusto Multivariável|3|1|4
+EN3710|Controle Não-Linear|3|1|4
+EN3711|Controle Discreto|3|1|4
+EN3712|Eletrônica de Potência I|3|2|4
+EN3713|Eletrônica de Potência II|3|2|4
+EN3714|Instrumentação e Metrologia Óptica|3|1|4
+EN3715|Projeto de Microdispositivos para Instrumentação|3|1|4
+EN3716|Supervisão e Monitoramento de Processos Energéticos|3|1|4
+EN3717|Optoeletrônica|3|1|4
+EN3718|Processadores Digitais em Controle e Automação|3|1|4
+EN3719|Óptica Integrada|3|1|4
+EN3720|Projeto de Sistemas Digitais com VHDL e Implementação em FPGAs|3|1|4
+EN3721|Teoria de Controle Ótimo|3|0|4
+EN3722|Confiabilidade de Componentes e Sistemas|3|0|4
+EN3801|Seminários em Materiais Avançados|2|0|2
+EN3802|Nanociência e Nanotecnologia|2|0|2
+EN3803|Química Orgânica de Materiais e Biomateriais|4|2|4
+EN3804|Química Inorgânica de Materiais|4|2|4
+EN3805|Reciclagem e Ambiente|4|0|4
+EN3806|Design de Dispositivos|3|1|4
+EN3807|Elementos Finitos Aplicados em Materiais|3|1|4
+EN3808|Dinâmica Molecular e Monte Carlo|3|1|4
+EN3809|Diagramas de Fase|4|0|4
+EN3810|Métodos Computacionais para o Estudo de Biomoléculas|3|1|4
+EN3811|Princípios Moleculares em Biomateriais|4|0|4
+EN3812|Tecnologia de Elastômeros|4|0|4
+EN3813|Engenharia de Polímeros|4|0|4
+EN3814|Blendas Poliméricas e Aditivação de Polímeros|4|0|4
+EN3815|Síntese de Polímeros|3|1|4
+EN3816|Simulação e Processamento de Polímeros|3|1|4
+EN3817|Engenharia de Cerâmicas|3|1|4
+EN3818|Processamento de Cerâmicas|3|1|4
+EN3819|Matérias Primas Cerâmicas|4|0|4
+EN3820|Cerâmicas Especiais e Refratárias|4|0|4
+EN3821|Metalurgia Física|4|0|4
+EN3822|Engenharia de Metais|3|1|4
+EN3823|Siderurgia e Engenharia dos Aços|4|0|4
+EN3824|Processamento e Conformação de Metais|3|1|4
+EN3825|Materiais para Energia e Ambiente|4|0|4
+EN3826|Materiais para Tecnologia da Informação|4|0|4
+EN3827|Engenharia de Filmes Finos|3|1|4
+EN3828|Materiais Nanoestruturados|4|0|4
+EN3829|Nanocompósitos|4|0|4
+EN3830|Biomateriais|3|1|4
+EN4001|Cinema e Conhecimento|2|0|3
+EN4010|Introdução à Sociologia da Ciência e das Técnicas|2|0|4
+EN4011|Estudo da Religião e das Religiosidades|2|0|3
+EN4012|Introdução à Antropologia|2|0|3
+EN4015|Cultura Brasileira|2|0|4
+EN4017|Cibercultura|2|0|2
+EN4024|Argumentação e Solução de Conflitos|2|0|2
+EN4101|Contaminação e Remediação de Solos|3|0|1
+EN4102|Técnicas Experimentais para Caracterização de Ecossistemas Aquáticos|2|2|4
+EN4103|Paisagismo e Gestão de Unidades de Conservação|3|1|2
+EN4104|Ecossistemas Terrestres, Aquáticos e Interfaces|3|1|3
+EN4105|Economia, Sociedade e Meio Ambiente|4|0|4
+EN4106|História do Urbanismo|2|0|4
+EN4107|Sensoriamento Remoto|1|3|2
+EN4108|Geomorfologia Descritiva|2|2|3
+EN4109|Análise de Sistemas e Modelagem Ambiental|1|3|4
+EN4110|Oceanografia Costeira para Engenharia Ambiental e Urbana|3|0|4
+EN4111|Biomas e Gestão de Ecossistemas|3|0|3
+EN4112|Gestão de Recursos Hídricos|3|0|4
+EN4113|Energia, Sociedade e Desenvolvimento|2|1|4
+EN4114|Geotecnia Aplicada ao Planejamento Urbano-Ambiental|3|0|4
+EN4115|Gestão Ambiental na Indústria|3|0|3
+EN4116|Questões Ambientais Globais|2|0|4
+EN4117|Educação Ambiental|2|0|4
+EN4118|Gestão Urbano-Ambiental|3|1|4
+EN4121|Cidades, Globalização e Projetos Urbanos|3|0|3
+EN4122|Economia e Sociologia Urbana|3|0|3
+EN4123|Tópicos Especiais em Engenharia Ambiental e Urbana|3|1|4
+EN4401|Materiais Nucleares e Danos da Radiação|2|0|4
+EN4402|Métodos de Imageamento e de Inspeção Nuclear|2|2|6
+EN4403|Laboratório de Reatores Nucleares|2|2|6
+EN4404|Métodos Computacionais Aplicados a Sistemas Elétricos|1|2|2
+EN4405|Geologia do Petróleo|4|0|4
+EN4406|Engenharia de Perfuração|4|0|4
+EN4407|Engenharia de Produção de Petróleo|4|0|4
+EN4408|Refino do Petróleo|4|0|4
+EN4409|Economia do Petróleo e do Gás Natural|2|0|4
+EN4410|Planejamento da Operação de Sistemas Hidrotérmicos de Potência|3|0|5
+MC0037|Programação para Web|2|2|4
+MC0201|Caos e Fractais|3|1|4
+MC1101|Álgebra Linear Avançada II|4|0|4
+MC1102|Funções de Variáveis Complexas|6|0|5
+MC1104|Teoria da Medida e Integração|4|0|4
+MC1201|Análise Real II|4|0|4
+MC1202|Probabilidade|4|0|4
+MC1204|Topologia I|4|0|4
+MC1301|Álgebra Linear Avançada I|4|0|4
+MC1302|Geometria Diferencial I|4|0|4
+MC1304|Grupos|4|0|4
+MC1305|Anéis e Corpos|4|0|4
+MC1306|Análise no Rn I|4|0|4
+MC1307|Equações Diferenciais Parciais|4|0|4
+MC1308|Teoria das Distribuições|4|0|4
+MC2102|Análise no Rn II|4|0|4
+MC2103|Geometria Diferencial II|4|0|4
+MC2104|Geometria Não Euclidiana|4|0|4
+MC2105|Análise Complexa|4|0|4
+MC2106|Topologia II|4|0|4
+MC2107|Introdução aos Sistemas Dinâmicos|4|0|4
+MC2108|Extensões Algébricas|4|0|4
+MC2109|Módulos|4|0|4
+MC2110|Trabalho de Conclusão de Curso em Matemática I|0|4|6
+MC2111|Trabalho de Conclusão de Curso em Matemática II|0|4|6
+MC2113|Introdução à Análise Funcional|4|0|4
+MC2202|Soluções Numéricas de EDP's|2|2|4
+MC2203|Métodos Variacionais|4|0|4
+MC2204|Elementos Finitos|4|0|4
+MC2205|Métodos Assintóticos|3|1|4
+MC2206|Teoria dos Jogos|4|0|4
+MC2208|Análise Numérica|4|0|4
+MC2209|Grupos de Lie e Simetrias|4|0|4
+MC2301|Processos Estocásticos|4|0|4
+MC2302|Análise de Regressão|3|1|4
+MC2303|Análise Multivariada|4|0|4
+MC2304|Biometria|3|1|4
+MC2305|Teoria das Filas|3|1|4
+MC2306|Introdução à Análise Estocástica em Finanças|3|1|4
+MC2307|Introdução aos Processos Pontuais|3|1|4
+MC2308|Inferência Estatística|4|0|4
+MC2309|Percolação|3|1|4
+MC2310|Introdução à Estatística Bayesiana|3|1|4
+MC3103|Empreendedorismo e Desenvolvimento de Negócios|4|0|4
+MC3104|Projeto de Graduação em Computação I|8|0|8
+MC3105|Sistemas Distribuídos|3|1|4
+MC3106|Linguagens Formais e Autômata|3|1|4
+MC3201|Compiladores|3|1|4
+MC3304|Sistemas Digitais|2|2|4
+MC3305|Algoritmos e Estruturas de Dados II|2|2|4
+MC3307|Computadores, Ética e Sociedade|2|0|4
+MC3308|Paradigmas de Programação|2|2|4
+MC3310|Banco de Dados|4|2|4
+MC3311|Inteligência Artificial|3|1|4
+MC4001|Métodos de Otimização|4|0|4
+MC4002|Programação Paralela|4|0|4
+MC4003|Arquitetura de Computadores de Alto Desempenho|4|0|4
+MC5001|Sistemas Multiagentes|3|1|4
+MC5002|Lógicas Não Clássicas|4|0|4
+MC5003|Mineração de Dados|3|1|4
+MC5004|Aprendizado de Máquina|4|0|4
+MC5005|Banco de Dados de Apoio à Tomada de Decisão|3|1|4
+MC5006|Web Semântica|4|0|4
+MC6001|Redes Convergentes|4|0|4
+MC6002|Laboratório de Redes|0|4|4
+MC6003|Projeto de Redes|4|0|4
+MC6004|Avaliação de Desempenho de Redes|3|1|4
+MC6005|Segurança em Redes|2|2|4
+MC6006|Redes sem Fio|3|1|4
+MC7005|Introdução à Bioestatística|3|1|4
+MC7006|Psicofarmacologia|4|0|4
+MC7007|Progressos e Métodos em Neurociência|3|1|4
+MC7102|Sistemas Multimídia|2|2|4
+MC7103|Análise de Projeto|2|0|2
+MC7104|Interface Humano-Máquina|4|0|4
+MC7105|Organização de Projeto|4|0|4
+MC7106|Processamento de Linguagem Natural|4|0|4
+MC7108|Projeto de Graduação em Computação II|8|0|8
+MC7109|Projeto de Graduação em Computação III|8|0|8
+MC7110|Estágio Supervisionado em Computação I|8|0|8
+MC7111|Estágio Supervisionado em Computação II|8|0|8
+MC7112|Estágio Supervisionado em Computação III|8|0|8
+MC7113|Laboratório de Engenharia de Software|0|4|4
+MC7114|Sistemas de Gerenciamento de Banco de Dados|2|2|4
+MC7115|Projeto Interdisciplinar|0|4|4
+MC7301|Laboratório de Sistemas Operacionais|0|4|4
+MC8100|Psicologia Experimental|4|2|4
+MC8101|Neurobiologia Molecular e Celular|4|2|2
+MC8102|Fundamentos de Álgebra|4|0|4
+MC8103|Processamento de Sinais Neurais|4|0|4
+MC8104|Neuroanatomia|2|1|3
+MC8105|Práticas de Ensino de Matemática I|3|0|4
+MC8106|Introdução à Psicolinguística|4|0|4
+MC8150|Estágio Supervisionado em Matemática I (Nível Médio)|0|0|0
+MC8200|Neurobiologia do Comportamento|2|2|2
+MC8206|Práticas de Ensino de Matemática II|3|0|4
+MC8209|Tendências em Educação Matemática|4|0|4
+MC8250|Estágio Supervisionado em Matemática II (Nível Médio)|0|0|0
+MC8300|Pesquisa e Comunicação Científica|2|0|2
+MC8303|Fundamentos de Análise|4|0|4
+MC8304|Fundamentos de Geometria|4|0|4
+MC8307|Práticas de Ensino de Matemática III|3|0|4
+MC8308|Práticas de Ensino de Matemática no Ensino Fundamental|4|0|4
+MC8310|Geometria Plana e Construções Geométricas|4|0|4
+MC8311|História da Matemática|4|0|4
+MC8350|Estágio Supervisionado em Matemática III (Nível Médio)|0|0|0
+NH1001|Tópicos de Metodologia da Ciência|3|0|4
+NH1002|Astrobiologia|2|0|2
+NH1003|Biologia do Desenvolvimento|2|2|4
+NH1004|Citogenética Básica|3|2|2
+NH1005|Ecologia Animal|4|0|4
+NH1006|Ecologia Vegetal|4|0|4
+NH1007|Etnofarmacologia|2|1|2
+NH1008|Farmacologia|4|2|4
+NH1009|História das Idéias Biológicas|2|0|4
+NH1010|Imunologia|4|0|5
+NH1011|Evolução Molecular|3|0|3
+NH1012|Parasitologia|3|0|3
+NH1013|Botânica Econômica|2|2|2
+NH1014|Seminários em Biologia I|1|0|2
+NH1015|Seminários em Biologia II|1|0|2
+NH1016|Toxicologia|4|2|4
+NH1017|Trabalho de Conclusão de Curso em Biologia|2|0|2
+NH1018|Virologia|4|0|4
+NH1110|Introdução à Lógica|3|0|4
+NH1602|Sistemática e Biogeografia|2|2|4
+NH1603|Geologia e Paleontologia|2|2|4
+NH1702|Biologia Vegetal I|3|2|3
+NH1703|Biologia Animal I|3|2|3
+NH1802|Biologia Vegetal II|3|2|3
+NH1803|Biologia Animal II|3|2|3
+NH1902|Biologia Vegetal III|3|2|3
+NH1903|Biologia Animal III|3|2|3
+NH1910|Estágio Supervisionado em Ciências Biológicas|0|0|0
+NH2000|Trabalho de Conclusão de Curso em Física|2|0|2
+NH2001|Tópicos em Física Experimental|0|3|4
+NH2002|Tópicos em Física Contemporânea|3|0|4
+NH2021|Fundamentos da Mecânica dos Fluidos|4|0|4
+NH2022|Teoria Clássica dos Campos|4|0|4
+NH2030|Métodos da Mecânica Quântica|4|0|4
+NH2031|Fluidos Quânticos|4|0|4
+NH2035|Métodos de Formação de Imagem e de Inspeção Nuclear|2|2|5
+NH2039|Lasers e Óptica Moderna|3|1|4
+NH2040|Teoria de Grupos em Física|4|0|4
+NH2041|Tecnologia do Vácuo e Criogenia|1|2|5
+NH2042|Dinâmica Não-Linear e Caos|4|0|4
+NH2043|Física Computacional|3|1|4
+NH2046|Introdução à Cosmologia|4|0|4
+NH2047|Introdução à Astrofísica|4|0|4
+NH2123|Propriedades Magnéticas e Eletrônicas|3|2|5
+NH2133|Fundamentos da Relatividade Geral|4|0|4
+NH2141|Interações da Radiação com a Matéria|4|0|4
+NH2201|Introdução à Física de Partículas Elementares|4|0|4
+NH2222|Radiações Eletromagnéticas|4|0|4
+NH2230|Laboratório de Propriedades Físicas de Materiais|2|2|4
+NH2231|Física de Semicondutores|3|1|4
+NH2242|Efeitos Biológicos das Radiações|4|0|4
+NH2332|Microscopia Eletrônica|2|2|4
+NH2431|Evolução da Física|4|0|4
+NH2703|Mecânica Clássica|4|0|4
+NH2704|Laboratório de Física Moderna|0|3|5
+NH2801|Fundamentos da Eletrostática|4|0|4
+NH2802|Fundamentos da Eletrodinâmica|4|0|4
+NH2803|Mecânica Analítica I|4|0|4
+NH2805|Mecânica Quântica|6|0|10
+NH2901|Mecânica Quântica Avançada|4|0|4
+NH2902|Mecânica Estatística|6|0|6
+NH2903|Mecânica Analítica II|4|0|4
+NH3001|Operações Unitárias I|4|0|4
+NH3002|Química Forense|4|2|6
+NH3003|Técnicas Aplicadas a Processos Biotecnológicos|4|2|4
+NH3004|Físico-Química Experimental|0|6|7
+NH3005|Química dos Materiais|4|2|4
+NH3101|Eletroanalítica e Técnicas de Separação|2|4|6
+NH3102|Transformações Químicas no Meio Ambiente|4|0|4
+NH3103|Métodos de Análise em Química Orgânica|4|0|4
+NH3104|Práticas de Química Verde|0|4|4
+NH3105|Seminários em Química I|2|0|2
+NH3106|Operações Unitárias II|4|0|4
+NH3107|Práticas de Escrita em Inglês para Química e Ciências Afins|2|0|4
+NH3109|Experimentação e Ensino de Química|3|0|4
+NH3201|Trabalho de Conclusão de Curso em Química|2|0|2
+NH3202|Cosméticos e Produtos de Higiene Pessoal|Alguns Conceitos e Aplicações|2|2|4
+NH3203|Introdução à Tecnologia do Petróleo|4|0|4
+NH3204|Introdução a Processos Industriais Biotecnológicos|2|0|5
+NH3205|Seminários em Química II|2|0|2
+NH3501|Métodos Quantitativos de Análise|4|2|6
+NH3601|Funções e Reações Orgânicas|4|0|6
+NH3602|Termoquímica|4|0|6
+NH3701|Mecanismos de Reações Orgânicas|4|0|6
+NH3801|Química Orgânica Experimental|0|4|6
+NH3802|Mineralogia|4|0|6
+NH3803|Estrutura da Matéria Avançada|4|0|4
+NH3812|Química Ambiental|2|0|4
+NH3901|Estrutura Atômica e Molecular|4|0|4
+NH3902|Química Orgânica Aplicada|0|4|6
+NH3903|Análise Química Instrumental|2|4|6
+NH3904|Química de Coordenação|4|2|6
+NH3905|Eletroquímica e Cinética Química|6|0|6
+NH3906|Introdução à Química Verde e Química Sustentável|4|0|4
+NH3907|Desenho e Projeto em Química|3|0|4
+NH3910|Estágio Supervisionado I|Bacharelado em Química|0|13|0
+NH3911|Estágio Supervisionado II|Bacharelado em Química|0|13|0
+NH4101|Práticas de Ensino de Biologia I|3|0|4
+NH4102|Práticas de Ensino de Física I|3|0|4
+NH4103|Práticas de Ensino de Química I|3|0|4
+NH4105|Educação à Distância e Novas Tecnologias|3|0|3
+NH4106|História da Ciência e Ensino|2|0|2
+NH4107|Questões Atuais no Ensino de Ciências|2|0|2
+NH4151|Estágio Supervisionado em Biologia I (Nível Médio)|0|0|0
+NH4152|Estágio Supervisionado em Física I (Nível Médio)|0|0|0
+NH4153|Estágio Supervisionado em Química I (Nível Médio)|0|0|0
+NH4198|Física Térmica|4|0|4
+NH4201|Práticas de Ensino de Biologia II|3|0|4
+NH4202|Práticas de Ensino de Física II|3|0|4
+NH4203|Práticas de Ensino de Química II|3|0|4
+NH4251|Estágio Supervisionado em Biologia II (Nível Médio)|0|0|0
+NH4252|Estágio Supervisionado em Física II (Nível Médio)|0|0|0
+NH4253|Estágio Supervisionado em Química II (Nível Médio)|0|0|0
+NH4297|Mecânica Geral|4|0|4
+NH4301|Práticas de Ensino de Biologia III|3|0|4
+NH4302|Práticas de Ensino de Física III|3|0|4
+NH4303|Práticas de Ensino de Química III|3|0|4
+NH4304|Práticas de Ciências no Ensino Fundamental|4|0|4
+NH4351|Estágio Supervisionado em Biologia III (Nível Médio)|0|0|0
+NH4352|Estágio Supervisionado em Física III (Nível Médio)|0|0|0
+NH4353|Estágio Supervisionado em Química III (Nível Médio)|0|0|0
+NH4399|Princípios de Mecânica Quântica|4|0|4
+NH4906|Morfofisiologia Evolutiva|4|0|4
+NH6601|Introdução à Ecologia|4|0|4
+Sumário
