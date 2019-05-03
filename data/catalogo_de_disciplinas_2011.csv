@@ -1,4 +1,4 @@
-CODIGO|NOME_DISCIPLINA|TEORIA|PRATICA|INDIVIDUAL
+SIGLA|DISCIPLINA|T|P|I
 BC0001|Base Experimental das Ciências Naturais|0|3|2
 BC0002|Projeto Dirigido|0|2|10
 BC0003|Bases Matemáticas|4|0|5
@@ -754,4 +754,3 @@ NH4353|Estágio Supervisionado em Química III (Nível Médio)|0|0|0
 NH4399|Princípios de Mecânica Quântica|4|0|4
 NH4906|Morfofisiologia Evolutiva|4|0|4
 NH6601|Introdução à Ecologia|4|0|4
-Sumário
